@@ -1,5 +1,18 @@
 # @cloud-carbon-footprint/gcp
 
+## 0.3.0
+
+### Minor Changes
+
+- f75cf08f: Adds support for getting GCP recommendations from the API
+
+### Patch Changes
+
+- 5407c95b: Bumps concurrently and googleapis packages to latest versions
+- Updated dependencies [f75cf08f]
+- Updated dependencies [52a8b3c1]
+  - @cloud-carbon-footprint/common@1.1.0
+
 ## 0.2.0
 
 ### Minor Changes
